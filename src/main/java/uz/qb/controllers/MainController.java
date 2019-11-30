@@ -41,7 +41,6 @@ public class MainController {
                 "    <ItemInventoryQueryRq requestID=\"1234\" />\n" +
                 "  </QBXMLMsgsRq>\n" +
                 "</QBXML>");
-
         dataCollection.add("<?qbxml version=\"8.0\"?>\n" +
                 "<QBXML>\n" +
                 "   <QBXMLMsgsRq onError=\"stopOnError\">\n" +
